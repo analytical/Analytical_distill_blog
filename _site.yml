@@ -8,6 +8,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Contacto"
-      href: about.html
+      href: http://www.analytical.cl
 output: distill::distill_article
 
