@@ -61,7 +61,7 @@ una concentración
 tal que aún se encuentre en el rango lineal de calibración. De esta forma
 se otiene una curva tal como se observa en la figura \@ref(fig:adicion):
 
-```{r adicion, echo = F, fig.cap = 'Preparacion curva método de adicion conocida'}
+```{r adicion, echo = F, fig.cap = 'Preparacion curva metodo de adicion conocida'}
 knitr::include_graphics('c0adicion.png')
 ```
 
