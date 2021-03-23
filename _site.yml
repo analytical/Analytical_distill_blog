@@ -1,0 +1,13 @@
+name: "analytical"
+title: "Analytical -- Estadística aplicada en Química"
+description: |
+  Blog -- Estadística aplicada en Química
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Contacto"
+      href: about.html
+output: distill::distill_article
+
